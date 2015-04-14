@@ -1,0 +1,65 @@
+/* css declarations */
+
+body {
+	background: #00FFFF;
+
+}
+
+.header {
+	margin: 50px auto 20px auto;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+.text {
+	font-size: 15px;
+	background: #7fffd4;
+	padding: 10px;
+	border-radius: 5px;
+	font-weight: bold;
+	color: #990000;
+}
+
+li {
+	font-weight: bold;
+	padding: 10px;
+	font-family: 'Philosopher', sans-serif;
+	font-size: 20px;
+}
+
+.body-container {
+	margin: 20px auto 20px auto;
+	text-align: center;		
+}
+
+#result-container {
+	margin: 20px auto 20px auto;
+	text-align: center;
+	height: 200px;
+	width: 500px;
+}
+
+.search-button {
+	margin-top: 10px;
+}
+.search-input {
+	margin-top: 20px;
+	border-radius: 5px;
+	border: 1px solid #40e0d0;
+	padding: 8px;
+	font-size: 14px;
+	color: #b71e66;
+	font-family: 'Libre Baskerville', serif;
+}
+
+.location-input {
+	margin-top: 20px;
+	border-radius: 5px;
+	border: 1px solid #40e0d0;
+	padding: 8px;
+	font-size: 14px;
+	color: #b71e66;
+	font-family: 'Libre Baskerville', serif;
+}

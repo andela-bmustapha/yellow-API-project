@@ -1,0 +1,14 @@
+Deals Sandbox API key: 8yrr2kmcb4euqyjva7ku6prt
+
+Places Sandbox API key: ttnecms7z552km87egfshs2e
+
+Places Production API key: wxt73yywk63jxekp6t3zn2su
+
+
+
+$("#result-container").empty();
+		$("#result-container").append(userSearch);
+
+
+
+http://api.sandbox.yellowapi.com
